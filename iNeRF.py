@@ -1,3 +1,5 @@
+# This is impelementation of iNeRF on NeRF in this repository: https://github.com/yashbhalgat/HashNeRF-pytorch
+
 import torch
 import argparse
 from nerf.provider import NeRFDataset
