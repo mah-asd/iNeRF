@@ -1,7 +1,7 @@
 # iNeRF
 My implementation for iNeRF
 
-Using this repositiry for impelementing NeRF: https://github.com/yashbhalgat/HashNeRF-pytorch
+Using this repositiry for implementation NeRF: https://github.com/yashbhalgat/HashNeRF-pytorch
 
 
 
